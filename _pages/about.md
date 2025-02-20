@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Developing microscopes and optical devices for label-free analysis of cells and tissues.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>National Institute of Standards and Technology (NIST)</p>
+    <p>100 Bureau Dr., Mail Stop 8543</p>
+    <p>Gaithersburg, MD 20899-8543</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,8 +27,16 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+My research interests lie at the intersection of science and engineering in developing and applying advanced optical techniques towards the analysis of chemical and biological specimens. Over the last decade, the availability of high-performance, high-speed lasers and detectors has greatly expanded; thus, offering exciting possibilities towards developing new optical modalities for studying light-matter interactions and to further apply these techniques towards real-world biological and medical problems. My specific interests encompass a variety of topics, such as:
+<ul>
+  <li>Quantum optical methods for enhanced and novel bioimaging and sensing modalities.
+  <li>Chemically-specific and functional microscopy modalities using such techniques as broadband coherent anti-Stokes Raman scattering (BCARS), multiplex stimulated Raman scattering (SRS), Brillouin scattering, IR absorption microscopy.
+  <li>Multivariate and N-way numerical techniques to prepare, denoise, reduce, and analyze multidimensional hyperspectral data
+  <li>Protocols and methods to quantify information distilled from hyperspectral imagery (both inter-sample and intra-sample, and from different instruments)
+  <li>Hyperspectral data visualization
+  <li>Applications of microspectroscopy (microscopy + spectroscopy) to medicine and biology
+  <li>Data science and machine learning.
+</ul>
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
