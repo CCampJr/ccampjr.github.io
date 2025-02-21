@@ -1,26 +1,18 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Charles H. Camp Jr.",
+    "label": "Electrical Engineer (Optics) and Scientist.",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "ccampjr@gmail.com",
+    "url": "https://ccampjr.github.io",
+    "summary": "Developer of label-free microscopies and optical systems for label-free analysis of biological and medical samples.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "100 Bureau Dr., Mail Stop 8543",
+      "postalCode": "MD 20899",
+      "city": "Gaithersburg",
       "countryCode": "US",
-      "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+      "region": "DC Metro"
+    }
   },
   "work": [
     {
