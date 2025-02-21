@@ -2,18 +2,18 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: Charles H. Camp Jr.
+    # - name: Date of Birth
+    #   value: 27th June 1981
+    # - name: Languages
+    #   value: English
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: PhD, Electrical Engineering (Optics and Photonics)
+      institution: Georgia Institute of Technology, Atlanta, GA
+      year: 2005 - 2011
       description:
         - Description 1.
         - Description 2.
