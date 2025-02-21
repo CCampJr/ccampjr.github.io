@@ -37,7 +37,6 @@
         - Honors Thesis Research Adviser: Prof. Julius Goldhar
         - Presidential Scholar
 
-
 - title: Research Experience
   type: time_table
   contents:
@@ -52,7 +51,7 @@
       institution: National Institute of Standards and Technology
       year: 2011 - 2013
       description:
-        -  Developed the world’s fastest broadband/multiplexed coherent anti-Stokes Raman scattering spectroscopy (BCARS/MCARS) microscope for label-free analysis of cells, tissues, biosystems, and biomaterials (and their interaction).
+        - Developed the world’s fastest broadband/multiplexed coherent anti-Stokes Raman scattering spectroscopy (BCARS/MCARS) microscope for label-free analysis of cells, tissues, biosystems, and biomaterials (and their interaction).
 
     - title: Graduate Research Assistant
       institution: Georgia Institute of Technology
@@ -65,8 +64,8 @@
     - title: Graduate Research Assistant
       institution: University of Maryland
       description:
-        -	Designed a new class of optical devices for use in all-optical switching and thresholding&#58; patterned active region multimode switches (PARMS).
-        -	Created a robust software package in MATLAB for the analysis of semiconductor waveguides with nonlinearities.
+        - Designed a new class of optical devices for use in all-optical switching and thresholding&#58; patterned active region multimode switches (PARMS).
+        - Created a robust software package in MATLAB for the analysis of semiconductor waveguides with nonlinearities.
 
 - title: Open Source Projects
   type: time_table

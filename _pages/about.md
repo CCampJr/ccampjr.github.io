@@ -28,6 +28,7 @@ latest_posts:
 ---
 
 My research interests lie at the intersection of science and engineering in developing and applying advanced optical techniques towards the analysis of chemical and biological specimens. Over the last decade, the availability of high-performance, high-speed lasers and detectors has greatly expanded; thus, offering exciting possibilities towards developing new optical modalities for studying light-matter interactions and to further apply these techniques towards real-world biological and medical problems. My specific interests encompass a variety of topics, such as:
+
 <ul>
   <li>Quantum optical methods for enhanced and novel bioimaging and sensing modalities.
   <li>Chemically-specific and functional microscopy modalities using such techniques as broadband coherent anti-Stokes Raman scattering (BCARS), multiplex stimulated Raman scattering (SRS), Brillouin scattering, IR absorption microscopy.
@@ -37,6 +38,5 @@ My research interests lie at the intersection of science and engineering in deve
   <li>Applications of microspectroscopy (microscopy + spectroscopy) to medicine and biology
   <li>Data science and machine learning.
 </ul>
-
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
