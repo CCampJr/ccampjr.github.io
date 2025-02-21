@@ -5,8 +5,8 @@
       value: Charles H. Camp Jr.
     # - name: Date of Birth
     #   value: 27th June 1981
-    # - name: Languages
-    #   value: English
+    - name: Languages
+      value: English (native), German (beginner)
 
 - title: Education
   type: time_table
@@ -15,51 +15,58 @@
       institution: Georgia Institute of Technology, Atlanta, GA
       year: 2005 - 2011
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+        - Technical Interest Group: Optics and Photonics
+        - Out-of-College Required Area: Chemistry
+        - Research Adviser: Prof. Ali Adibi
+        - Dissertation: Label-Free Flow Cytometry Using Multiplex Coherent Anti-Stokes Raman Scattering (MCARS) Spectroscopy
 
-- title: Experience
+    - title: MS, Electrical Engineering (Electrophysics)
+      institution: University of Maryland, College Park, MD
+      year: 2003 - 2005
+      description:
+        - Specialization: Electrophysics
+        - Advisers: Prof. Julius Goldhar and Dr. Christopher Richardson
+        - Thesis: Patterned Active Region Multimode Switches for Optical Thresholding: Theory and Simulation
+
+    - title: BS, Electrical Engineering with Honors
+      institution: University of Maryland, College Park, MD
+      year: 1999 - 2003
+      description:
+        - University Honors Program
+        - Department of Electrical and Computer Engineering Honors Program
+        - Honors Thesis Research Adviser: Prof. Julius Goldhar
+        - Presidential Scholar
+
+
+- title: Research Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Electrical Engineer
+      institution: National Institute of Standards and Technology
+      year: 2013 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Developed Franson interferometer for first demonstration of time-energy entangled photons surviving propagation through thick biological media and tissue.
+        - Generating advanced data science and machine learning tools for processing, integration, quantification, and visualization of multidimensional data.
+
+    - title: National Research Council (NRC) Postdoctoral Fellow
+      institution: National Institute of Standards and Technology
+      year: 2011 - 2013
       description:
-        - Description 1.
-        - Description 2.
+        -  Developed the world’s fastest broadband/multiplexed coherent anti-Stokes Raman scattering spectroscopy (BCARS/MCARS) microscope for label-free analysis of cells, tissues, biosystems, and biomaterials (and their interaction).
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Graduate Research Assistant
+      institution: Georgia Institute of Technology
+      year: 2005 - 2011
       description:
+        - Developed the first label-free flow cytometer using multiplex coherent anti-Stokes Raman scattering (MCARS) for biological and material analysis.
+        - Coordinated and authored several grant proposals for submission to the National Institute of Health (NIH) and the National Science Foundation (NSF).
+        - Constructed the first interferometric multiplex coherent anti-Stokes Raman scattering (iMCARS) system using photonic crystal fiber laser source.
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    - title: Graduate Research Assistant
+      institution: University of Maryland
+      description:
+        -	Designed a new class of optical devices for use in all-optical switching and thresholding: patterned active region multimode switches (PARMS).
+        -	Created a robust software package in MATLAB for the analysis of semiconductor waveguides with nonlinearities.
 
 - title: Open Source Projects
   type: time_table
